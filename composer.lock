@@ -2272,7 +2272,7 @@
                 "lumencors",
                 "preflight"
             ],
-            "time": "2016-06-07 15:28:08"
+            "time": "2016-06-07T15:28:08+00:00"
         },
         {
             "name": "paragonie/random_compat",
